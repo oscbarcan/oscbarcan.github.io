@@ -1,0 +1,51 @@
+.DWES {
+    background-color: #ffcc00 !important;
+    /* Color de fondo amarillo para DWES */
+}
+
+.DIW {
+    background-color: #33cc33 !important;
+    /* Color de fondo verde para DIW */
+}
+
+.DWEC {
+    background-color: #3366ff !important;
+    /* Color de fondo azul para DWEC */
+}
+
+.DAW {
+    background-color: #ff3333 !important;
+    /* Color de fondo rojo para DAW */
+}
+
+.EIE {
+    background-color: #990099 !important;
+    /* Color de fondo morado para EIE */
+}
+
+.ANG {
+    background-color: #ff9933 !important;
+    /* Color de fondo naranja para ANG */
+}
+
+.TUTORIA {
+    background-color: #666666 !important;
+    /* Color de fondo gris para TUTORIA */
+}
+
+/* Estilos generales para la tabla */
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table th,
+.table td {
+    border: 1px solid #000;
+    padding: 8px;
+    text-align: center;
+}
+
+.table-group-divider th {
+    background-color: #ccc;
+}
